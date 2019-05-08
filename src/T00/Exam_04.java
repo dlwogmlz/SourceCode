@@ -1,3 +1,4 @@
+package T00;
 import java.util.*;
 
 class AAA {
